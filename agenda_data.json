@@ -1,0 +1,272 @@
+{
+    "mural": " ",
+    "eventos": [
+        {
+            "data": "06\/01\/2026 09:17:43",
+            "titulo": "A Escolhida",
+            "desc": "10:00 - São Judas",
+            "passado": false,
+            "arquivado": true
+        },
+        {
+            "data": "02\/05",
+            "titulo": "Missa de Responsabilidade do Vicentinos",
+            "desc": "<ul><li>18:00h na Comunidade São José (Resenha 04)<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "08\/05",
+            "titulo": "ECAFO",
+            "desc": "<ul><li>20:00h na Comunidade São José (Resenha 04)<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "09\/05",
+            "titulo": "CJ - Comissão de Jovens",
+            "desc": "<ul><li>16:30h na Comunidade São José<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "10\/05",
+            "titulo": "Dia das Mães",
+            "desc": "<ul><li>Exibição de 2 faixas vicentinas, para serem usadas em cada paróquia.<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "14\/05",
+            "titulo": "Terço da Conf. Privilegiada",
+            "desc": "17:00h na sede do Conselho Particular",
+            "arquivado": true
+        },
+        {
+            "data": "17\/05",
+            "titulo": "Café de Homenagem às Mães",
+            "desc": "<p><br><\/p>",
+            "arquivado": true
+        },
+        {
+            "data": "17\/05",
+            "titulo": "Bazar Vicentino",
+            "desc": "<ul><li>09:30h às 17:00h na Comunidade São José<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "18\/05",
+            "titulo": "Reunião do Conselho Particular",
+            "desc": "<ul><li>20:00h na Comunidade São José<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "04\/04",
+            "titulo": "Missa de Responsabilidade do Vicentinos",
+            "desc": "- Esclarecido em ata - Igreja São José",
+            "arquivado": false
+        },
+        {
+            "data": "08\/04",
+            "titulo": "Reunião Ordinária nº 2285",
+            "desc": "Salão da Igreja São Judas Tadeu",
+            "arquivado": false
+        },
+        {
+            "data": "10\/04",
+            "titulo": "Participação na ECAFO",
+            "desc": "Reunião às 20:00h",
+            "arquivado": false
+        },
+        {
+            "data": "12\/04",
+            "titulo": "Terço da Privilegiada",
+            "desc": "Realizado às 18:00h",
+            "arquivado": true
+        },
+        {
+            "data": "13\/04",
+            "titulo": "Reunião do Conselho Particular",
+            "desc": "Realizada às 20:00h",
+            "arquivado": false
+        },
+        {
+            "data": "26\/04",
+            "titulo": "Festa Regulamentar em Honra ao Beato Antônio Frederico Ozanam e fundação da SSVP",
+            "desc": "<ul><li>Horário : 08:00&nbsp;<\/li><li>Local: CP Nossa Senhora Aparecida, Capela Santa Edwiges&nbsp;<\/li><li>Endereço : R. Rodrigo Fernandes Santos, 171 , Serra Verde, Belo Horizonte, MG&nbsp;<\/li><li>Partida: 07:00 Carona solidária em frente a Igreja São José<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "13\/04 - 18\/05",
+            "titulo": "Conferência Privilegiada",
+            "desc": "Nossa Senhoras das Graças, reuniões aos sábados 09:00 na sede do conselho",
+            "arquivado": true,
+            "mensal": true
+        },
+        {
+            "data": "24\/04 - 06\/05",
+            "titulo": "Coleta Ozanan",
+            "desc": "Coleta Ozanan",
+            "arquivado": true
+        },
+        {
+            "data": "13\/04\/2026 - 18\/05\/2026",
+            "titulo": "Conferência Privilegiada ",
+            "desc": "<ul><li>Conferência Nossa Senhora das Graças<\/li><li>Reuniões aos sábados 09:00<\/li><li>Local Sede do Conselho Particular<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "26\/06\/2026",
+            "titulo": "Festa Regulamentar ",
+            "desc": "Céu Azul",
+            "arquivado": true
+        },
+        {
+            "data": "10\/05\/2026 - 15\/05\/2026",
+            "titulo": "Gincana Vicentina",
+            "desc": "Teste\r\n- Teste 1\r\n- Teste 2",
+            "arquivado": true
+        },
+        {
+            "data": "13\/04\/2026 - 18\/05\/2026",
+            "titulo": "Tedteeeeeeee",
+            "desc": "<p>Teter<\/p>",
+            "arquivado": true
+        },
+        {
+            "data": "17\/05",
+            "titulo": "Terço Fraterno ",
+            "desc": "<ul><li>17:00 horas<\/li><li>Conferência Nossa Senhora da Graças <\/li><li>Comunidade Nossa Senhora das Graças - Sede do CP Sagrada Face de Jesus<\/li><\/ul>",
+            "arquivado": false
+        },
+        {
+            "data": "17\/05",
+            "titulo": "Café de Homenagem às Mães",
+            "desc": "<ul><li>18:00h<\/li><li>Comunidade Nossa Senhora das Graças após o terço<\/li><\/ul><p><br><\/p>",
+            "arquivado": false
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Marcos Ferreira da Rocha",
+            "login": "marcos",
+            "senha": "123",
+            "nivel": "admin"
+        },
+        {
+            "id": 1776891205,
+            "nome": "Alberto Luiz dos Reis",
+            "login": "alberto",
+            "senha": "123",
+            "nivel": "user"
+        },
+        {
+            "id": 1776891215,
+            "nome": "Santiago Eustáquio de Oliveira",
+            "login": "santiago",
+            "senha": "123",
+            "nivel": "user"
+        },
+        {
+            "id": 1776891225,
+            "nome": "Gracenilda Miranda Marinho Veloso",
+            "login": "gracenilda",
+            "senha": "123",
+            "nivel": "user"
+        },
+        {
+            "id": 1776891232,
+            "nome": "Ana Maria Rosa",
+            "login": "ana",
+            "senha": "123",
+            "nivel": "user"
+        },
+        {
+            "id": 1776891237,
+            "nome": "Lívia Dutra Rocha",
+            "login": "livia",
+            "senha": "123",
+            "nivel": "user"
+        },
+        {
+            "id": 1777214020,
+            "nome": "teste",
+            "login": "teste",
+            "senha": "123",
+            "nivel": "user"
+        }
+    ],
+    "presencas": {
+        "1": [],
+        "13": [
+            1
+        ],
+        "14": [
+            1
+        ],
+        "3": [],
+        "15": [],
+        "17": [
+            1,
+            1776891232,
+            1776891225
+        ],
+        "9": [],
+        "7": [
+            1776891225
+        ],
+        "8": [],
+        "2": [],
+        "6": [
+            1776891232
+        ]
+    },
+    "aniversariantes": [
+        {
+            "data": "13\/04",
+            "nome": "João Glicério Ferreira",
+            "conferencia": "Conferência Nossa Senhora das Graças"
+        },
+        {
+            "data": "22\/04",
+            "nome": "Maria Cícera Bezerra",
+            "conferencia": "Conferência Coração Eucarístico de Jeus"
+        },
+        {
+            "data": "23\/04",
+            "nome": "José Rodrigues Soares",
+            "conferencia": "Conferência São José Operário"
+        },
+        {
+            "data": "25\/04",
+            "nome": "Luiz Gregório",
+            "conferencia": "Conferência Jesus Bom Pastor"
+        },
+        {
+            "data": "30\/04",
+            "nome": "Arminda Maria",
+            "conferencia": "Conferência São José Operário"
+        },
+        {
+            "data": "22\/02",
+            "nome": "Marcos Ferreira da Rocha",
+            "conferencia": "Conferência Coração Eucarístico de Jesus"
+        },
+        {
+            "data": "17\/03\/2016",
+            "nome": "Lívia Dutra Rocha",
+            "conferencia": "Conferência Coração Eucarístico de Jesus"
+        },
+        {
+            "data": "01\/01",
+            "nome": "Geni de Oliveira Dutra Rocha",
+            "conferencia": "Conferência Eucarístico de Jesus"
+        }
+    ],
+    "locais": "Conferência Nossa Senhora da Graças - Sábado 09:00 - Comunidade Nossa Senhora das Graças - Sede do CP Sagrada Face de Jesus - Endereço: \r\nConferência São Judas Tadeu - Sexta Feira 19:00 - Comunidade Santo Antônio - Endereço: Rua Messias Coutinho, 85 - Céu Azul, Belo Horizonte - MG, 31580-400\r\nConferência Coração Eucarístico de Jesus - Quarta Feira 19:30 - Comunidade São Judas Tadeu - Endereço: R. Maria Viêira Magalhães, 33 - Céu Azul, Belo Horizonte - MG, 31585-240\r\nConferência São José Operário - Sábado 18:00 - Comunidade São Judas Tadeu - Endereço: R. Maria Viêira Magalhães, 33 - Céu Azul, Belo Horizonte - MG, 31585-240\r\nConferência Jesus Bom Pastor - Sexta Feira 20:00 - Comunidade São Francisco - Endereço: Rua Radialista Margarida Maciel, 460-470 - Céu Azul, Ribeirão das Neves - MG, 31578-330\r\nConferência São Raimundo Nonato - Segunda Feira 19:00 - Comunidade São José - Endereço: R. Maria Gertrudes Santos, 23 - Céu Azul, Belo Horizonte - MG, 31578-300\r\nConferência Sagrado Coração de Jesus - Terça Feira 18:00 - Comunidade São José - Endereço: R. Maria Gertrudes Santos, 23 - Céu Azul, Belo Horizonte - MG, 31578-300\r\nConferência Sagrada Face de Jesus - Terça Feira 19:30 - Comunidade São José - Endereço: R. Maria Gertrudes Santos, 23 - Céu Azul, Belo Horizonte - MG, 31578-300",
+    "noticias": [
+        {
+            "id": 1777027269,
+            "titulo": "ECAFO para aspirantes",
+            "texto": "<p><strong>Local<\/strong> : Conselho Central Imaculada Conceição de Venda Nova <\/p><p><strong>Endereço<\/strong> : Rua São Vicente, 55, Salas 304 e 305, Candelária Belo Horizonte\/MG<\/p>",
+            "expira": "2026-05-17"
+        }
+    ]
+}

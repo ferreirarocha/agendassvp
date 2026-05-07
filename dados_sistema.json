@@ -1,0 +1,61 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Marcos Rocha",
+            "login": "marcos",
+            "senha": "123",
+            "nivel": "admin"
+        }
+    ],
+    "eventos": [
+        {
+            "data": "14\/04 - 25\/05",
+            "titulo": "Conferência Privilegiada",
+            "desc": "teste",
+            "arquivado": true
+        },
+        {
+            "data": "18\/05",
+            "titulo": "Conferência privilegiada - Nossa Senhora das Graças",
+            "desc": "10:00 - Comunidade Nossa Senhora das Graças",
+            "arquivado": true
+        },
+        {
+            "data": "14\/04 - 25\/05",
+            "titulo": "Conferência Privilegiada",
+            "desc": "Conferência Privilegiada",
+            "arquivado": true
+        },
+        {
+            "data": "26\/04\/2026",
+            "titulo": "A Escolhida",
+            "desc": "10:00 - Igreja São José",
+            "arquivado": false
+        },
+        {
+            "data": "21\/08\/2025",
+            "titulo": "Conferência privilegiada - Nossa Senhora das Graças",
+            "desc": "10:00 - Igreja São José",
+            "arquivado": true
+        },
+        {
+            "data": "14\/04 - 25\/05",
+            "titulo": "Conferência Privilegiada",
+            "desc": "Confrernecia privilegiada",
+            "arquivado": false
+        }
+    ],
+    "mural": "Festa regulamentar",
+    "aniversariantes": [
+        {
+            "data": "24\/05",
+            "nome": "Luiz Gregório"
+        },
+        {
+            "data": "26\/04",
+            "nome": "João Glicério Ferreira"
+        }
+    ],
+    "presencas": []
+}

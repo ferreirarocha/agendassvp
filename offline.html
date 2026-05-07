@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Agenda Vicentina - CCEJ</title>
+    <meta name="theme-color" content="#1e3a8a">
+    <script>
+        // Se tiver snapshot carrega imediatamente antes de renderizar qualquer coisa
+        const snap = localStorage.getItem('agenda_snapshot');
+        if (snap) {
+            document.open();
+            document.write(snap);
+            document.close();
+        }
+    </script>
+</head>
+<body>
+    <div style="background:#1e3a8a; color:white; min-height:100vh; display:flex; flex-direction:column; align-items:center; justify-content:center; font-family:sans-serif; text-align:center; padding:20px;">
+        <img src="https://ccej.mailsfera.com.br/img/logo.webp" style="width:80px; margin-bottom:20px;">
+        <h2 style="margin:0 0 10px;">Sem conexão</h2>
+        <p style="color:rgba(255,255,255,0.7); font-size:0.9rem;">.<br>Acessando a ultima versão disponível.</p>
+    </div>
+    
+    
+</body>
+</html>
