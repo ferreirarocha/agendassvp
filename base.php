@@ -3,7 +3,7 @@ session_start();
 date_default_timezone_set('America/Sao_Paulo');
 
 // Unificando para o arquivo que contém seus dados reais
-$arquivo = 'agenda_data.json';
+$arquivo = '../../config/ccej/agenda_data.json';
 
 if (!file_exists($arquivo)) {
     $sistema = [
